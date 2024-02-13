@@ -2,6 +2,10 @@
     {
         "package": "HexAeroR",
         "url": "https://github.com/euctrl-pru/hexaeror"
+    },
+    {
+        "package": "nvctr",
+        "url": "https://github.com/euctrl-pru/nvctr"
     }
 ]
 
