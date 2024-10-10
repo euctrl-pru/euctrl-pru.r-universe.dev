@@ -6,6 +6,10 @@
     {
         "package": "nvctr",
         "url": "https://github.com/euctrl-pru/nvctr"
+    },
+    {
+        "package": "eurocontrol",
+        "url": "https://github.com/eurocontrol/eurocontrol"
     }
 ]
 
